@@ -1,4 +1,4 @@
-# Heart-diseases-prediction-model
+![Screenshot 2024-11-02 201916](https://github.com/user-attachments/assets/bfd74264-daf2-44fb-9ab1-006b34681d8c)# Heart-diseases-prediction-model
 
 
 ❤️ Heart Disease Prediction Using Machine Learning 🩺💻
@@ -16,11 +16,12 @@ This project leverages machine learning to predict the presence of heart disease
 🧠 Models Used:
 
 📈 Logistic Regression
-🤖 Naive Bayes
+🤖 Naive Bayes!
 🛠️ Support Vector Machines (SVM)
 👣 K-Nearest Neighbors (KNN)
 🌳 Decision Trees
 🌲 Random Forests
+![Screenshot 2024-11-02 201916](https://github.com/user-attachments/assets/8e6a7503-046f-4987-bf5c-bdd800797abc)
 
 
 📊 Evaluation: Models are compared using accuracy scores and confusion matrices to identify the best performer.
@@ -31,3 +32,8 @@ This project leverages machine learning to predict the presence of heart disease
 
 🎯 Objective:
 To develop an accurate and interpretable model for predicting heart disease 🫀, enabling early diagnosis and aiding decision-making in healthcare 🏥.
+
+
+
+
+
