@@ -2,10 +2,16 @@
 
 
 ❤️ Heart Disease Prediction Using Machine Learning 🩺💻
+
+
 This project leverages machine learning to predict the presence of heart disease 🫀 based on key medical attributes. Using advanced models and data visualization 📊, it uncovers patterns and helps make data-driven predictions for healthcare support.
+
+
 
 ✨ Key Features:
 🔍 Dataset: Medical attributes like age, chest pain type, cholesterol levels, and more, sourced from Kaggle and UCI.
+
+
 
 🧠 Models Used:
 
@@ -15,6 +21,8 @@ This project leverages machine learning to predict the presence of heart disease
 👣 K-Nearest Neighbors (KNN)
 🌳 Decision Trees
 🌲 Random Forests
+
+
 📊 Evaluation: Models are compared using accuracy scores and confusion matrices to identify the best performer.
 
 ⚙️ Hyperparameter Tuning: Optimized parameters (e.g., random_state) for better accuracy.
