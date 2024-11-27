@@ -39,6 +39,19 @@ Classification of the Data :
 
 
 
+2) Based on chest pain :
+
+   
+![Screenshot 2024-11-27 103110](https://github.com/user-attachments/assets/2f0f6100-a2b7-4960-abc8-c3ff943d9b48)
+
+
+3) Based on Age :
+
+
+
+![Screenshot 2024-11-28 010106](https://github.com/user-attachments/assets/5d128b9f-112b-492f-8c8a-3cb6a25211c6)
+
+
 
 
 📊 Evaluation: Models are compared using accuracy scores and confusion matrices to identify the best performer.
