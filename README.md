@@ -1,4 +1,4 @@
-![Screenshot 2024-11-02 201916](https://github.com/user-attachments/assets/bfd74264-daf2-44fb-9ab1-006b34681d8c)# Heart-diseases-prediction-model
+# Heart-diseases-prediction-model
 
 
 ❤️ Heart Disease Prediction Using Machine Learning 🩺💻
@@ -21,6 +21,11 @@ This project leverages machine learning to predict the presence of heart disease
 👣 K-Nearest Neighbors (KNN)
 🌳 Decision Trees
 🌲 Random Forests
+
+
+Data set from kaggle : 
+
+
 ![Screenshot 2024-11-02 201916](https://github.com/user-attachments/assets/8e6a7503-046f-4987-bf5c-bdd800797abc)
 
 
